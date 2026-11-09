@@ -8,9 +8,11 @@ authors = [
 ]
 requires-python = ">=3.13"
 dependencies = [
+    "datasets>=5.1.0",
     "litellm>=1.106.6",
     "openai>=2.24,<3",
     "python-dotenv>=1.2.4",
+    "tqdm>=4.70.1",
 ]
 
 [build-system]
