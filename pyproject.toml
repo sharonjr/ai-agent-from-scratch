@@ -12,6 +12,7 @@ dependencies = [
     "litellm>=1.106.6",
     "mcp>=2.3.0",
     "openai>=2.24,<3",
+    "pydantic>=2.14.1",
     "python-dotenv>=1.2.4",
     "tavily-python>=0.8.5",
     "tqdm>=4.70.1",
